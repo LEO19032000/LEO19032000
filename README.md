@@ -1,6 +1,6 @@
 # SQL Currency Management System
 
-This repository contains SQL scripts designed to create and manage a simple database for handling foreign currency transactions and summaries. The database includes the following key functionalities:
+This repository contains SQL scripts designed to create and manage a simple database for handling foreign currency transactions and summaries. The database includes the following key functionalities
 
 ## Database Overview
 
@@ -33,3 +33,9 @@ The provided SQL script includes a series of queries designed to generate financ
 
 - The SQL script is designed for use in a Microsoft SQL Server environment.
 - To use the script, simply run it in your SQL Server Management Studio (SSMS) or another SQL Server-compatible tool.
+
+## Technical skills
+- **Database schema
+- **Query data structure, get familiar with writing procedures
+- **Dinamic SQL: write string structure syntax to automatically execute queries
+- **Pivot data structure: dynamic column mapping 
