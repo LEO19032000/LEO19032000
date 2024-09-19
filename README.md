@@ -35,7 +35,7 @@ The provided SQL script includes a series of queries designed to generate financ
 - To use the script, simply run it in your SQL Server Management Studio (SSMS) or another SQL Server-compatible tool.
 
 ## Technical skills
-- **Database schema
-- **Query data structure, get familiar with writing procedures
-- **Dinamic SQL: write string structure syntax to automatically execute queries
-- **Pivot data structure: dynamic column mapping 
+- Database schema
+- Query data structure, get familiar with writing procedures
+- Dinamic SQL: write string structure syntax to automatically execute queries
+- Pivot data structure: dynamic column mapping 
